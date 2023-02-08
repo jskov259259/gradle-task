@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'gradle-task'
-include('utils')
+include 'api', 'core', 'utils'
+

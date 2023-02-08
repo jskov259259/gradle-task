@@ -7,7 +7,7 @@ import org.apache.commons.lang3.math.NumberUtils;
 
 public class StringUtils {
 
-    boolean isPositiveNumber(String str) {
+    public boolean isPositiveNumber(String str) {
 
         if (!NumberUtils.isCreatable(str)) {
             return false;
