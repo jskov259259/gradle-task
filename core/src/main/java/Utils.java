@@ -1,4 +1,4 @@
-import gradle.task.StringUtils;
+import ru.clevertec.StringUtils;
 
 public class Utils {
 
