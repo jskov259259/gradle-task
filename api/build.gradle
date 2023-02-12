@@ -16,3 +16,5 @@ tasks.named('jar') {
         attributes('Main-Class': 'App')
     }
 }
+
+apply plugin: SimplePlugin
